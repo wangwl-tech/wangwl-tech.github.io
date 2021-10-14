@@ -5,12 +5,29 @@
     <link>https://nongkeyuandebaocai.github.io/authors/</link>
       <atom:link href="https://nongkeyuandebaocai.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Li Wang © 2021, Last update: 2021-10-09</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Li Wang © 2021, Last update: 2021-10-09</copyright><lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>https://nongkeyuandebaocai.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://nongkeyuandebaocai.github.io/authors/admin/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nongkeyuandebaocai.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Li Wang is a postgraduate student at Xidian University under the supervision of A/Prof. Xiaohua Zhang. She obtained her bachelor&#39;s degree in 2019 at Ningbo University and got postgraduate recommendation. Her research goal is to solve modeling, optimization and learning problems on interdisciplinary subjects using generative adversarial network and Transformer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Xiaohua Zhang</title>
+      <link>https://nongkeyuandebaocai.github.io/authors/xiaohua-zhang/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nongkeyuandebaocai.github.io/authors/xiaohua-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Li Wang</title>
@@ -34,23 +51,6 @@
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://nongkeyuandebaocai.github.io/authors/tianrui-li/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaohua Zhang</title>
-      <link>https://nongkeyuandebaocai.github.io/authors/xiaohua-zhang/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://nongkeyuandebaocai.github.io/authors/xiaohua-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nongkeyuandebaocai.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://nongkeyuandebaocai.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Li Wang is a postgraduate student at Xidian University under the supervision of A/Prof. Xiaohua Zhang. She obtained her bachelor&#39;s degree in 2019 at Ningbo University and got postgraduate recommendation. Her research goal is to solve modeling, optimization and learning problems on interdisciplinary subjects using generative adversarial network and Transformer.&lt;/p&gt;
-</description>
     </item>
     
     <item>
